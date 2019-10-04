@@ -1,0 +1,86 @@
+.container {
+  width: 497px;
+  height: 305px;
+  border: solid;
+  border-radius: 20px;
+  background-image: url("http://i4tiran.com/e/2019/07/blue-earth-wallpaper-powerpoint-background-and-templates-beautiful-photograph-of-astronomy-free-download-1024x768.jpg");
+  background-size: 100%;
+  background-position-x: -1;
+  background-position-y: -1;
+}
+
+.chip-img {
+  border-radius: 15px;
+  width: 80px;
+}
+
+.master-card {
+  height: 98px;
+  position: relative;
+  bottom: 40px;
+  right: 10px;
+}
+
+.date {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  bottom: 60px;
+  color:white;}
+
+.sous-container {
+  padding-left: 30px;
+}
+
+.titre {
+  color: aliceblue;
+  padding-left: 150px;
+  font-size: 30px;
+}
+
+.cardholder {
+  position: relative;
+  color: white;
+}
+
+.number {
+  color: #DDE465;
+  font-size: 30px;
+  position: relative;
+  bottom: 30px;
+}
+.triangle{
+  
+  width: 0;
+    height: 0;
+    border-top: 16px solid transparent;
+    border-bottom: 16px solid transparent;
+    border-left: 15px solid white;
+    position: relative;
+    top:10px;
+    left:60px;
+}
+.expire{
+  position: relative;
+  bottom: 30px;
+  left:290px;
+  font-size:10px;
+  color: white;
+}
+.valid{
+  position: relative;
+  left:120px;
+  bottom: 15px;
+}
+.code{
+  font-size:25px;
+  position: relative;
+  bottom: 20px;
+}
+.cardh{
+  position: relative;
+  bottom: 120px;
+  color: white;
+  font-weight: 600;
+  
+}
